@@ -1,6 +1,5 @@
 import pandas as pd
 from sklearn.cluster import KMeans
-from sklearn.datasets import make_blobs
 import matplotlib.pyplot as plt
 
 # Sample url provided
